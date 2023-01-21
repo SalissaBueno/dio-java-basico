@@ -1,2 +1,2 @@
 # dio-java-basico
-Repositório para aa aulas de JAVA - Gleyson Sampaio
+Repositório para as aulas de JAVA - Gleyson Sampaio
